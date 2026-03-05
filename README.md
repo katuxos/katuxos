@@ -35,13 +35,27 @@ Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para 
 
 - Formulario de adhesión personalizado  
 - Filtros para tipos de entrada personalizados  
-- Escritorio de gestión de adheridos con avisos por email y gráficas  
+- Escritorio de gestión de adheridos con avisos por email y gráficas
 
 ---
 
 ## 📱 Webapps y apps móviles
 
 - Webapp Symfony para control horario  
-- App móvil en Ionic/Angular para registro de visitas de vendedores  
+- App móvil en Ionic/Angular para registro de visitas de vendedores
+
+---
+
+## 📦 Repositorios
+
+### 🐍 python-document-generator-starter
+Starter project en Python para generar documentos HTML y PDF a partir de datos en Excel usando Jinja2 y xhtml2pdf.  
+Pensado para automatizar documentación repetitiva y servir como base para flujos más complejos.  
+https://github.com/katuxos/python-document-generator-starter
+
+### 🧩 stimulus-tableKatuxos
+Controlador Stimulus ligero para tablas con ordenación, búsqueda y paginación.  
+https://github.com/katuxos/stimulus-tableKatuxos
+
   - Envío de datos vía API a backend Symfony  
   - Roles, configuración y visualización por equipo de ventas  
