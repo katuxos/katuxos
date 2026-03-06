@@ -37,7 +37,9 @@ Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para 
 
 - Webapp Symfony para control horario  
 - App móvil en Ionic/Angular para registro de visitas de vendedores
-
+  - Envío de datos vía API a backend Symfony  
+  - Roles, configuración y visualización por equipo de ventas
+    
 ---
 
 ## 🧩 Open Source
@@ -53,6 +55,3 @@ Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para 
 Starter project en Python para generar documentos HTML y PDF a partir de datos en Excel usando Jinja2 y xhtml2pdf.  
 Pensado para automatizar documentación repetitiva y servir como base para flujos más complejos.  
 https://github.com/katuxos/python-document-generator-starter
-
-  - Envío de datos vía API a backend Symfony  
-  - Roles, configuración y visualización por equipo de ventas  
