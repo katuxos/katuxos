@@ -1,12 +1,12 @@
 # katuxos · Desarrollo Artesanal
 
-Desarrolladora fullstack especializada en **Symfony**, **Stimulus**, **Prestashop** y **WordPress**.  
+Desarrolladora fullstack especializada en **Symfony**, **Stimulus**, **PrestaShop** y **WordPress**.  
 Me gusta construir sistemas claros, mantenibles y sin dependencias innecesarias.  
 Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para durar.
 
 ---
 
-## 🛠️ Módulos desarrollados para Prestashop
+## 🛠️ Módulos desarrollados para PrestaShop
 
 - Recargo de equivalencia en checkout y factura (por grupo)  
 - Carga de stock para combinaciones desde Excel  
