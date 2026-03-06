@@ -6,13 +6,6 @@ Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para 
 
 ---
 
-## 🧩 Open Source
-
-- **tableKatuxos** — Controlador Stimulus ligero para tablas con ordenación, búsqueda y paginación  
-  https://github.com/katuxos/stimulus-tableKatuxos
-
----
-
 ## 🛠️ Módulos desarrollados para Prestashop
 
 - Recargo de equivalencia en checkout y factura (por grupo)  
@@ -27,7 +20,8 @@ Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para 
 - Asignación automática de combinación por defecto sin stock  
 - Reseñas con IQITReviews + panel propio en Symfony  
 - Pago con reserva (adaptación de ps_wirepayment)  
-- Adaptación de módulos gratuitos (WhatsApp, captcha) para PS 8.x  
+- Adaptación de módulos gratuitos (WhatsApp, captcha) para PS 8.x
+- Carga de documentos PDF para ser servidos en páginas CMS u otros lugares, con entrega de URL.  Multitienda. 
 
 ---
 
@@ -46,16 +40,19 @@ Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para 
 
 ---
 
+## 🧩 Open Source
+
+- **tableKatuxos** — Controlador Stimulus ligero para tablas con ordenación, búsqueda y paginación sin depender de DataTables ni librerías pesadas  
+  https://github.com/katuxos/stimulus-tableKatuxos
+
+---
+
 ## 📦 Repositorios
 
 ### 🐍 python-document-generator-starter
 Starter project en Python para generar documentos HTML y PDF a partir de datos en Excel usando Jinja2 y xhtml2pdf.  
 Pensado para automatizar documentación repetitiva y servir como base para flujos más complejos.  
 https://github.com/katuxos/python-document-generator-starter
-
-### 🧩 stimulus-tableKatuxos
-Controlador Stimulus ligero para tablas con ordenación, búsqueda y paginación.  
-https://github.com/katuxos/stimulus-tableKatuxos
 
   - Envío de datos vía API a backend Symfony  
   - Roles, configuración y visualización por equipo de ventas  
