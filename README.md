@@ -36,10 +36,17 @@ Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para 
 ## 📱 Webapps y apps móviles
 
 - Webapp Symfony para control horario  
-- App móvil en Ionic/Angular para registro de visitas de vendedores
+- App móvil en Ionic/Angular para registro de visitas de vendedores  
   - Envío de datos vía API a backend Symfony  
-  - Roles, configuración y visualización por equipo de ventas
-    
+  - Roles, configuración y visualización por equipo de ventas  
+- **Sistema de auditorías (Symfony + Ionic/Angular)**  
+  - Backend Symfony con API REST y roles 
+  - App móvil con modo offline y envío automático  
+  - Sincronización con ERP externo  
+  - Gestión de asignaciones y validaciones de negocio  
+  - Turbo Streams para actualizaciones en tiempo real  
+  - Arquitectura limpia y orientada a procesos reales  
+
 ---
 
 ## 🧩 Open Source
