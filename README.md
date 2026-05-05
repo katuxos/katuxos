@@ -17,7 +17,7 @@ Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para 
 - Popup en checkout para OnePageCheckout  
 - Carrusel de productos para alcanzar envío gratuito  
 - Limpieza de base de datos  
-- Asignación automática de combinación por defecto sin stock  
+- Asignación automática de combinación por defecto cuando la combinación por defecto no tiene stock  
 - Reseñas con IQITReviews + panel propio en Symfony  
 - Pago con reserva (adaptación de ps_wirepayment)  
 - Adaptación de módulos gratuitos (WhatsApp, captcha) para PS 8.x
