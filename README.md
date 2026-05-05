@@ -21,8 +21,7 @@ Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para 
 - Reseñas con IQITReviews + panel propio en Symfony  
 - Pago con reserva (adaptación de ps_wirepayment)  
 - Adaptación de módulos gratuitos (WhatsApp, captcha) para PS 8.x
-- Carga de documentos PDF para ser servidos en páginas CMS u otros lugares, con entrega de URL.  Multitienda. 
-
+- Carga de documentos PDF para ser servidos en páginas CMS u otros lugares, con entrega de URL.  Multitienda.
 ---
 
 ## 🔌 Plugins desarrollados para WordPress
