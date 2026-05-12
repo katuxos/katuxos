@@ -22,6 +22,10 @@ Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para 
 - Pago con reserva (adaptación de ps_wirepayment)  
 - Adaptación de módulos gratuitos (WhatsApp, captcha) para PS 8.x
 - Carga de documentos PDF para ser servidos en páginas CMS u otros lugares, con entrega de URL.  Multitienda.
+- Calculadora de tallas integrada en el flujo de compra.
+- Integración de pago con PayU Latam con validaciones, callbacks y conciliación.
+- **Botón de desistimiento del pedido** en el área del cliente.  Botón visible únicamente dentro de los 14 días posteriores a la entrega. Multitienda y con estados del pedido.
+  
 ---
 
 ## 🔌 Plugins desarrollados para WordPress
