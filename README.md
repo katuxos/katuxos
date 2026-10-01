@@ -24,8 +24,8 @@ Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para 
 - Carga de documentos PDF para ser servidos en páginas CMS u otros lugares, con entrega de URL.  Multitienda.
 - Calculadora de tallas integrada en el flujo de compra.
 - Integración de pago con PayU Latam con validaciones, callbacks y conciliación.
-- **Botón de desistimiento del pedido** en el área del cliente.  Botón visible únicamente dentro de los 14 días posteriores a la entrega. Multitienda y con estados del pedido.
-  
+- Botón de desistimiento del pedido en el área del cliente.  Botón visible únicamente dentro de los 14 días posteriores a la entrega. Multitienda y con estados del pedido.
+- **Checkout por WhatsApp para PrestaShop**  Añade WhatsApp como método de pago. El cliente finaliza el pedido y toda la información se envía automáticamente por WhatsApp para cerrar la venta manualmente (ajustar transporte, confirmar stock o negociar condiciones especiales, por ejemplo).
 ---
 
 ## 🔌 Plugins desarrollados para WordPress
