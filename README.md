@@ -54,7 +54,7 @@ Trabajo con un enfoque artesanal: soluciones ligeras, elegantes y pensadas para 
 
 - **tableKatuxos** — Controlador Stimulus ligero para tablas con ordenación, búsqueda y paginación sin depender de DataTables ni librerías pesadas  
   https://github.com/katuxos/stimulus-tableKatuxos
-
+- **autocompleteKatuxos** — Controlador Stimulus ligero para autocompletado local sobre datos precargados en la página, sin peticiones AJAX ni dependencias externas.
 ---
 
 ## 📦 Repositorios
